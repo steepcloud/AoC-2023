@@ -13,7 +13,6 @@ struct Game {
     std::vector<std::vector<Cube>> subsets;
     bool addID;
 
-    // Constructor to initialize members
     Game() : id(0), sum_red(0), sum_green(0), sum_blue(0), addID(false) {}
 
     void addCounts(const std::vector<Cube>& subset) {
