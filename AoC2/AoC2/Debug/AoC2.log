@@ -1,0 +1,5 @@
+﻿  part1.cpp
+  part2.cpp
+  Generating Code...
+part2.obj : error LNK2005: _main already defined in part1.obj
+C:\Users\David\source\repos\AoC2\Debug\AoC2.exe : fatal error LNK1169: one or more multiply defined symbols found
