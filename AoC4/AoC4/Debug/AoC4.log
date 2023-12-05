@@ -1,0 +1,5 @@
+﻿  part1.cpp
+C:\Users\David\source\repos\AoC4\AoC4\part1.cpp(50,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\David\source\repos\AoC4\AoC4\part1.cpp(51,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\David\source\repos\AoC4\AoC4\part1.cpp(61,35): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  AoC4.vcxproj -> C:\Users\David\source\repos\AoC4\Debug\AoC4.exe
