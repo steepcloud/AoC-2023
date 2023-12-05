@@ -1,0 +1,3 @@
+﻿  part1.cpp
+C:\Users\David\source\repos\AoC5\AoC5\part1.cpp(76,16): warning C4244: 'initializing': conversion from 'const __int64' to 'int', possible loss of data
+  AoC5.vcxproj -> C:\Users\David\source\repos\AoC5\Debug\AoC5.exe
