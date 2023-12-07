@@ -1,0 +1,6 @@
+﻿  part1.cpp
+C:\Users\David\source\repos\AoC7\AoC7\part1.cpp(38,37): warning C4018: '<': signed/unsigned mismatch
+C:\Users\David\source\repos\AoC7\AoC7\part1.cpp(120,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\David\source\repos\AoC7\AoC7\part1.cpp(120,41): warning C4018: '<': signed/unsigned mismatch
+C:\Users\David\source\repos\AoC7\AoC7\part1.cpp(44): warning C4715: 'highestMatching': not all control paths return a value
+  AoC7.vcxproj -> C:\Users\David\source\repos\AoC7\Debug\AoC7.exe
