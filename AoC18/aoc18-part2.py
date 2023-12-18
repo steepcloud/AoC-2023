@@ -12,4 +12,4 @@ def calculate_lagoon_capacity(instruction_list, current_position=0, total_lava=1
 instruction_list = [(directions[code[7]], int(code[2:7], 16)) for _, _, code in instructions]
 result = calculate_lagoon_capacity(instruction_list)
 
-print("The lagoon can hold an impressive", result, "cubic meters of lava.")
+print("Part 2: The lagoon can hold an impressive", result, "cubic meters of lava.")
