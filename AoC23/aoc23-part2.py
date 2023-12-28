@@ -31,4 +31,4 @@ def dfs(current_position):
     visited_positions.remove(current_position)
 
 dfs((0, 1))
-print(max_path_length)
+print('Part 2:', max_path_length)
